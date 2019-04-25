@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Launching Testnet & Staking Nodes, February Update'
-date: 2019-04-25T04:06:41.703Z
+date: 2019-04-06T04:06:41.703Z
 description: description
 ---
 Dear investors and friends,
